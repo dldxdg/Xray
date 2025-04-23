@@ -1,3 +1,6 @@
+#官网
+https://xtls.github.io/
+
 # 介绍
 
 最好用的 Xray 一键安装脚本 & 管理脚本
